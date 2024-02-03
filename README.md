@@ -47,9 +47,9 @@ Open index.html in a web browser to view the news website.
 If you'd like to contribute to the project, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature: git checkout -b feature-name.
-3. Commit your changes: git commit -m 'Add new feature'.
-4. Push to the branch: git push origin feature-name.
+2. Create a new branch for your feature: `git checkout -b feature-name`.
+3. Commit your changes: `git commit -m 'Add new feature'`.
+4. Push to the branch: `git push origin feature-name`.
 5. Submit a pull request.
 
 ### License
