@@ -40,3 +40,22 @@ Open index.html in a web browser to view the news website.
 
 - Update the apiKey variable in app.js with your News API key.
 - Adjust the categories, styling, and features to suit your preferences.
+
+
+### Contributing
+
+If you'd like to contribute to the project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature: git checkout -b feature-name.
+3. Commit your changes: git commit -m 'Add new feature'.
+4. Push to the branch: git push origin feature-name.
+5. Submit a pull request.
+
+### License
+
+- This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Acknowledgments
+
+News API for providing the news data.
